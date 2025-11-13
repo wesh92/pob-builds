@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Build bandit="None" level="75" ascendClassName="None" pantheonMajorGod="None" pantheonMinorGod="None" className="Duelist" viewMode="ITEMS" characterLevelAutoMode="true" mainSocketGroup="1" targetVersion="3_0">
-		<PlayerStat value="24163.3283892" stat="AverageDamage"/>
-		<PlayerStat value="22728.4781724" stat="AverageBurstDamage"/>
+		<PlayerStat value="37277.16572085" stat="AverageDamage"/>
+		<PlayerStat value="35495.0416722" stat="AverageBurstDamage"/>
 		<PlayerStat value="2.2796307692308" stat="Speed"/>
 		<PlayerStat value="0" stat="PreEffectiveCritChance"/>
 		<PlayerStat value="0" stat="CritChance"/>
 		<PlayerStat value="0" stat="CritMultiplier"/>
-		<PlayerStat value="91" stat="HitChance"/>
-		<PlayerStat value="55083.466883048" stat="TotalDPS"/>
+		<PlayerStat value="94" stat="HitChance"/>
+		<PlayerStat value="84978.173966964" stat="TotalDPS"/>
 		<PlayerStat value="0" stat="TotalDot"/>
-		<PlayerStat value="55083.466883048" stat="WithBleedDPS"/>
-		<PlayerStat value="55083.466883048" stat="WithIgniteDPS"/>
-		<PlayerStat value="55083.466883048" stat="WithPoisonDPS"/>
+		<PlayerStat value="84978.173966964" stat="WithBleedDPS"/>
+		<PlayerStat value="84978.173966964" stat="WithIgniteDPS"/>
+		<PlayerStat value="84978.173966964" stat="WithPoisonDPS"/>
 		<PlayerStat value="0" stat="TotalDotDPS"/>
 		<PlayerStat value="0" stat="CullingDPS"/>
 		<PlayerStat value="0" stat="ReservationDPS"/>
-		<PlayerStat value="55083.466883048" stat="CombinedDPS"/>
+		<PlayerStat value="84978.173966964" stat="CombinedDPS"/>
 		<PlayerStat value="24" stat="ManaCost"/>
 		<PlayerStat value="0" stat="ManaPercentCost"/>
 		<PlayerStat value="54.711138461538" stat="ManaPerSecondCost"/>
@@ -30,34 +30,34 @@
 		<PlayerStat value="0" stat="ESPercentPerSecondCost"/>
 		<PlayerStat value="0" stat="RageCost"/>
 		<PlayerStat value="0" stat="SoulCost"/>
-		<PlayerStat value="253" stat="Str"/>
-		<PlayerStat value="39" stat="ReqStr"/>
-		<PlayerStat value="538" stat="Dex"/>
+		<PlayerStat value="327" stat="Str"/>
+		<PlayerStat value="64" stat="ReqStr"/>
+		<PlayerStat value="647" stat="Dex"/>
 		<PlayerStat value="82" stat="ReqDex"/>
-		<PlayerStat value="144" stat="Int"/>
+		<PlayerStat value="192" stat="Int"/>
 		<PlayerStat value="57" stat="ReqInt"/>
 		<PlayerStat value="0" stat="Devotion"/>
-		<PlayerStat value="4829.5157632685" stat="TotalEHP"/>
-		<PlayerStat value="2518" stat="PhysicalMaximumHitTaken"/>
-		<PlayerStat value="4414" stat="LightningMaximumHitTaken"/>
-		<PlayerStat value="4414" stat="FireMaximumHitTaken"/>
-		<PlayerStat value="8986" stat="ColdMaximumHitTaken"/>
-		<PlayerStat value="1573" stat="ChaosMaximumHitTaken"/>
-		<PlayerStat value="2570" stat="MainHandAccuracy"/>
-		<PlayerStat value="2570" stat="OffHandAccuracy"/>
-		<PlayerStat value="2516" stat="Life"/>
+		<PlayerStat value="5536.8465251802" stat="TotalEHP"/>
+		<PlayerStat value="2603" stat="PhysicalMaximumHitTaken"/>
+		<PlayerStat value="6193" stat="LightningMaximumHitTaken"/>
+		<PlayerStat value="6193" stat="FireMaximumHitTaken"/>
+		<PlayerStat value="9289" stat="ColdMaximumHitTaken"/>
+		<PlayerStat value="1626" stat="ChaosMaximumHitTaken"/>
+		<PlayerStat value="2912" stat="MainHandAccuracy"/>
+		<PlayerStat value="2912" stat="OffHandAccuracy"/>
+		<PlayerStat value="2601" stat="Life"/>
 		<PlayerStat value="130" stat="Spec:LifeInc"/>
-		<PlayerStat value="2516" stat="LifeUnreserved"/>
-		<PlayerStat value="2516" stat="LifeRecoverable"/>
+		<PlayerStat value="2601" stat="LifeUnreserved"/>
+		<PlayerStat value="2601" stat="LifeRecoverable"/>
 		<PlayerStat value="100" stat="LifeUnreservedPercent"/>
-		<PlayerStat value="65.4" stat="LifeRegenRecovery"/>
-		<PlayerStat value="220.33386753219" stat="LifeLeechGainRate"/>
-		<PlayerStat value="556" stat="Mana"/>
+		<PlayerStat value="67.6" stat="LifeRegenRecovery"/>
+		<PlayerStat value="339.91269586786" stat="LifeLeechGainRate"/>
+		<PlayerStat value="580" stat="Mana"/>
 		<PlayerStat value="0" stat="Spec:ManaInc"/>
-		<PlayerStat value="139" stat="ManaUnreserved"/>
+		<PlayerStat value="145" stat="ManaUnreserved"/>
 		<PlayerStat value="25" stat="ManaUnreservedPercent"/>
-		<PlayerStat value="9.7" stat="ManaRegenRecovery"/>
-		<PlayerStat value="111.2" stat="ManaLeechGainRate"/>
+		<PlayerStat value="10.2" stat="ManaRegenRecovery"/>
+		<PlayerStat value="116" stat="ManaLeechGainRate"/>
 		<PlayerStat value="0" stat="EnergyShield"/>
 		<PlayerStat value="0" stat="EnergyShieldRecoveryCap"/>
 		<PlayerStat value="0" stat="Spec:EnergyShieldInc"/>
@@ -65,7 +65,7 @@
 		<PlayerStat value="0" stat="EnergyShieldLeechGainRate"/>
 		<PlayerStat value="0" stat="Ward"/>
 		<PlayerStat value="0" stat="RageRegenRecovery"/>
-		<PlayerStat value="380" stat="Evasion"/>
+		<PlayerStat value="389" stat="Evasion"/>
 		<PlayerStat value="118" stat="Spec:EvasionInc"/>
 		<PlayerStat value="0" stat="MeleeEvadeChance"/>
 		<PlayerStat value="0" stat="ProjectileEvadeChance"/>
@@ -77,18 +77,18 @@
 		<PlayerStat value="0" stat="AttackDodgeChance"/>
 		<PlayerStat value="0" stat="SpellDodgeChance"/>
 		<PlayerStat value="24" stat="EffectiveSpellSuppressionChance"/>
-		<PlayerStat value="46" stat="FireResist"/>
+		<PlayerStat value="61" stat="FireResist"/>
 		<PlayerStat value="0" stat="FireResistOverCap"/>
 		<PlayerStat value="75" stat="ColdResist"/>
-		<PlayerStat value="21" stat="ColdResistOverCap"/>
-		<PlayerStat value="46" stat="LightningResist"/>
+		<PlayerStat value="10" stat="ColdResistOverCap"/>
+		<PlayerStat value="61" stat="LightningResist"/>
 		<PlayerStat value="0" stat="LightningResistOverCap"/>
 		<PlayerStat value="-60" stat="ChaosResist"/>
 		<PlayerStat value="0" stat="ChaosResistOverCap"/>
 		<PlayerStat value="1.69" stat="EffectiveMovementSpeedMod"/>
-		<PlayerStat value="54932.550342738" stat="FullDPS"/>
+		<PlayerStat value="84745.44186634" stat="FullDPS"/>
 		<PlayerStat value="0" stat="FullDotDPS"/>
-		<FullDPSSkill value="54932.550342738" source="" skillPart="" stat="Volcanic Fissure of Snaking"/>
+		<FullDPSSkill value="84745.44186634" source="" skillPart="" stat="Volcanic Fissure of Snaking"/>
 		<PlayerStat value="0" stat="PowerCharges"/>
 		<PlayerStat value="3" stat="PowerChargesMax"/>
 		<PlayerStat value="1" stat="FrenzyCharges"/>
@@ -243,7 +243,7 @@
 		</SkillSet>
 	</Skills>
 	<Import exportParty="false"/>
-	<Items activeItemSet="3" useSecondWeaponSet="nil" showStatDifferences="true">
+	<Items activeItemSet="4" useSecondWeaponSet="nil" showStatDifferences="true">
 		<Item id="1">
 			Rarity: UNIQUE
 One With Nothing
@@ -527,6 +527,172 @@ Implicits: 2
 			<ModRange range="0.5" id="3"/>
 			<ModRange range="0.5" id="4"/>
 		</Item>
+		<Item id="15">
+			Rarity: UNIQUE
+Goldrim
+Leather Cap
+Evasion: 79
+EvasionBasePercentile: 0.75
+Item Level: 73
+Quality: 20
+Sockets: G B G
+Implicits: 0
++41 to Evasion Rating
+10% increased Rarity of Items found
++40% to all Elemental Resistances
+Reflects 4 Physical Damage to Melee Attackers
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="16">
+			Rarity: UNIQUE
+Call of the Void
+Sapphire Ring
+Shaper Item
+Elder Item
+Item Level: 87
+LevelReq: 16
+Implicits: 2
+5% increased Strength
+6% increased Dexterity
++24% to Cold Resistance
+All Damage with Hits can Chill
+All Damage Taken from Hits can Chill you
+Enemies Chilled by your Hits can be Shattered as though Frozen
+Enemies Chilled by your Hits lessen their Damage dealt by half of Chill Effect
+Corrupted
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="17">
+			Rarity: UNIQUE
+Le Heup of All
+Iron Ring
+Item Level: 71
+LevelReq: 24
+Implicits: 2
+6% increased Strength
+5% increased Dexterity
++30 to all Attributes
+29% increased Damage
+29% increased Rarity of Items found
++28% to all Elemental Resistances
+Corrupted
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="18">
+			Rarity: UNIQUE
+Seven-League Step
+Rawhide Boots
+Evasion: 18
+EvasionBasePercentile: 1
+Item Level: 84
+Quality: 0
+Sockets: R-B-G-G
+Implicits: 1
+5% increased maximum Energy Shield
+50% increased Movement Speed
+Corrupted
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+		</Item>
+		<Item id="19">
+			Rarity: UNIQUE
+The Magnate
+Studded Belt
+Item Level: 81
+LevelReq: 16
+Implicits: 1
+26% increased Stun Duration on Enemies
++40 to Strength
++25% to all Elemental Resistances
+50% increased Flask Charges gained
+10% chance to deal Double Damage while you have at least 200 Strength
+5% chance to deal Triple Damage while you have at least 400 Strength
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="20">
+			Rarity: UNIQUE
+Tabula Rasa
+Simple Robe
+Item Level: 80
+Quality: 20
+Sockets: W-W-W-W-W-W
+Implicits: 1
+50% increased Damage
+Corrupted
+			<ModRange range="0.5" id="1"/>
+		</Item>
+		<Item id="21">
+			Rarity: UNIQUE
+Astramentis
+Onyx Amulet
+Item Level: 80
+LevelReq: 20
+Implicits: 2
+{crafted}Allocates Acuity
++19 to all Attributes
+Quality (Attribute Modifiers): +20%
++120 to all Attributes
+-4 Physical Damage taken from Attack Hits
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
+		<Item id="22">
+			Rarity: RARE
+Gaunt Phalange
+Flamecaller Xophgraft
+Item Level: 27
+LevelReq: 19
+Implicits: 2
+9% increased Elemental Damage with Attack Skills
+Uses level 8 Call the Pyre
+Graftblood: 228/750
+19% increased Fire Damage
+45% increased chance to find Ancient Wombgifts
+Skills used by this Graft have 20% increased Cooldown Recovery Rate
+Skills used by this Graft have 104% increased Critical Strike Chance
+Skills used by this Graft have +15% to Critical Strike Multiplier
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
+		<Item id="23">
+			Rarity: RARE
+Brittle Torus
+Erupting Xophgraft
+Item Level: 22
+Quality: 17
+LevelReq: 17
+Implicits: 2
+16% increased Area Damage
+Uses level 7 His Burning Message
+Graftblood: 95/795
+19% increased Fire Damage
+45% increased chance to find Growing Wombgifts
+Skills used by this Graft have 119% increased Critical Strike Chance
+Skills used by this Graft have +19% to Critical Strike Multiplier
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
 		<ItemSet useSecondWeaponSet="nil" id="1">
 			<Slot itemPbURL="" name="Flask 5" itemId="0"/>
 			<Slot itemPbURL="" name="Flask 1" itemId="0"/>
@@ -725,6 +891,83 @@ Implicits: 2
 			<Slot itemPbURL="" name="Helmet Abyssal Socket 2" itemId="0"/>
 			<Slot itemPbURL="" name="Helmet Abyssal Socket 3" itemId="0"/>
 			<Slot itemPbURL="" name="Graft 2" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 4" itemId="0"/>
+			<SocketIdURL itemPbURL="" name="Jewel 46882" nodeId="46882"/>
+			<Slot itemPbURL="" name="Flask 3" itemId="0"/>
+			<Slot itemPbURL="" name="Flask 2" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 4" itemId="0"/>
+		</ItemSet>
+		<ItemSet useSecondWeaponSet="nil" id="4" title="Cracked OWN Set">
+			<Slot itemPbURL="" name="Flask 5" itemId="0"/>
+			<Slot itemPbURL="" name="Flask 1" itemId="0"/>
+			<Slot itemPbURL="" name="Graft 1" itemId="22"/>
+			<Slot itemPbURL="" name="Belt" itemId="19"/>
+			<Slot itemPbURL="" name="Flask 4" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1" itemId="0"/>
+			<Slot itemPbURL="" name="Amulet" itemId="21"/>
+			<Slot itemPbURL="" name="Helmet" itemId="15"/>
+			<Slot itemPbURL="" name="Weapon 2" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour" itemId="20"/>
+			<Slot itemPbURL="" name="Gloves" itemId="0"/>
+			<Slot itemPbURL="" name="Boots" itemId="18"/>
+			<Slot itemPbURL="" name="Ring 1" itemId="16"/>
+			<Slot itemPbURL="" name="Ring 2" itemId="17"/>
+			<Slot itemPbURL="" name="Ring 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Graft 2" itemId="23"/>
 			<Slot itemPbURL="" name="Helmet Abyssal Socket 5" itemId="0"/>
 			<Slot itemPbURL="" name="Helmet Abyssal Socket 6" itemId="0"/>
 			<Slot itemPbURL="" name="Body Armour Abyssal Socket 1" itemId="0"/>
