@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build bandit="None" level="75" ascendClassName="None" pantheonMajorGod="None" pantheonMinorGod="None" className="Duelist" viewMode="ITEMS" characterLevelAutoMode="true" mainSocketGroup="1" targetVersion="3_0">
-		<PlayerStat value="37277.16572085" stat="AverageDamage"/>
-		<PlayerStat value="35495.0416722" stat="AverageBurstDamage"/>
-		<PlayerStat value="2.2796307692308" stat="Speed"/>
+	<Build bandit="None" level="39" ascendClassName="None" pantheonMajorGod="None" pantheonMinorGod="None" className="Duelist" viewMode="TREE" characterLevelAutoMode="true" mainSocketGroup="1" targetVersion="3_0">
+		<PlayerStat value="9440.62641775" stat="AverageDamage"/>
+		<PlayerStat value="8648.7300845" stat="AverageBurstDamage"/>
+		<PlayerStat value="1.9039509846827" stat="Speed"/>
 		<PlayerStat value="0" stat="PreEffectiveCritChance"/>
 		<PlayerStat value="0" stat="CritChance"/>
 		<PlayerStat value="0" stat="CritMultiplier"/>
-		<PlayerStat value="94" stat="HitChance"/>
-		<PlayerStat value="84978.173966964" stat="TotalDPS"/>
+		<PlayerStat value="85" stat="HitChance"/>
+		<PlayerStat value="17974.489964097" stat="TotalDPS"/>
 		<PlayerStat value="0" stat="TotalDot"/>
-		<PlayerStat value="84978.173966964" stat="WithBleedDPS"/>
-		<PlayerStat value="84978.173966964" stat="WithIgniteDPS"/>
-		<PlayerStat value="84978.173966964" stat="WithPoisonDPS"/>
+		<PlayerStat value="17974.489964097" stat="WithBleedDPS"/>
+		<PlayerStat value="17974.489964097" stat="WithIgniteDPS"/>
+		<PlayerStat value="17974.489964097" stat="WithPoisonDPS"/>
 		<PlayerStat value="0" stat="TotalDotDPS"/>
 		<PlayerStat value="0" stat="CullingDPS"/>
 		<PlayerStat value="0" stat="ReservationDPS"/>
-		<PlayerStat value="84978.173966964" stat="CombinedDPS"/>
+		<PlayerStat value="17974.489964097" stat="CombinedDPS"/>
 		<PlayerStat value="24" stat="ManaCost"/>
 		<PlayerStat value="0" stat="ManaPercentCost"/>
-		<PlayerStat value="54.711138461538" stat="ManaPerSecondCost"/>
+		<PlayerStat value="45.694823632385" stat="ManaPerSecondCost"/>
 		<PlayerStat value="0" stat="ManaPercentPerSecondCost"/>
 		<PlayerStat value="0" stat="LifeCost"/>
 		<PlayerStat value="0" stat="LifePercentCost"/>
@@ -30,34 +30,34 @@
 		<PlayerStat value="0" stat="ESPercentPerSecondCost"/>
 		<PlayerStat value="0" stat="RageCost"/>
 		<PlayerStat value="0" stat="SoulCost"/>
-		<PlayerStat value="327" stat="Str"/>
-		<PlayerStat value="64" stat="ReqStr"/>
-		<PlayerStat value="647" stat="Dex"/>
+		<PlayerStat value="292" stat="Str"/>
+		<PlayerStat value="39" stat="ReqStr"/>
+		<PlayerStat value="523" stat="Dex"/>
 		<PlayerStat value="82" stat="ReqDex"/>
 		<PlayerStat value="192" stat="Int"/>
 		<PlayerStat value="57" stat="ReqInt"/>
 		<PlayerStat value="0" stat="Devotion"/>
-		<PlayerStat value="5536.8465251802" stat="TotalEHP"/>
-		<PlayerStat value="2603" stat="PhysicalMaximumHitTaken"/>
-		<PlayerStat value="6193" stat="LightningMaximumHitTaken"/>
-		<PlayerStat value="6193" stat="FireMaximumHitTaken"/>
-		<PlayerStat value="9289" stat="ColdMaximumHitTaken"/>
-		<PlayerStat value="1626" stat="ChaosMaximumHitTaken"/>
-		<PlayerStat value="2912" stat="MainHandAccuracy"/>
-		<PlayerStat value="2912" stat="OffHandAccuracy"/>
-		<PlayerStat value="2601" stat="Life"/>
-		<PlayerStat value="130" stat="Spec:LifeInc"/>
-		<PlayerStat value="2601" stat="LifeUnreserved"/>
-		<PlayerStat value="2601" stat="LifeRecoverable"/>
+		<PlayerStat value="1550.0428255843" stat="TotalEHP"/>
+		<PlayerStat value="934" stat="PhysicalMaximumHitTaken"/>
+		<PlayerStat value="1864" stat="LightningMaximumHitTaken"/>
+		<PlayerStat value="1864" stat="FireMaximumHitTaken"/>
+		<PlayerStat value="3329" stat="ColdMaximumHitTaken"/>
+		<PlayerStat value="583" stat="ChaosMaximumHitTaken"/>
+		<PlayerStat value="1995" stat="MainHandAccuracy"/>
+		<PlayerStat value="1995" stat="OffHandAccuracy"/>
+		<PlayerStat value="932" stat="Life"/>
+		<PlayerStat value="43" stat="Spec:LifeInc"/>
+		<PlayerStat value="932" stat="LifeUnreserved"/>
+		<PlayerStat value="932" stat="LifeRecoverable"/>
 		<PlayerStat value="100" stat="LifeUnreservedPercent"/>
-		<PlayerStat value="67.6" stat="LifeRegenRecovery"/>
-		<PlayerStat value="339.91269586786" stat="LifeLeechGainRate"/>
-		<PlayerStat value="580" stat="Mana"/>
+		<PlayerStat value="9.3" stat="LifeRegenRecovery"/>
+		<PlayerStat value="71.897959856387" stat="LifeLeechGainRate"/>
+		<PlayerStat value="364" stat="Mana"/>
 		<PlayerStat value="0" stat="Spec:ManaInc"/>
-		<PlayerStat value="145" stat="ManaUnreserved"/>
+		<PlayerStat value="91" stat="ManaUnreserved"/>
 		<PlayerStat value="25" stat="ManaUnreservedPercent"/>
-		<PlayerStat value="10.2" stat="ManaRegenRecovery"/>
-		<PlayerStat value="116" stat="ManaLeechGainRate"/>
+		<PlayerStat value="6.4" stat="ManaRegenRecovery"/>
+		<PlayerStat value="58.908243466083" stat="ManaLeechGainRate"/>
 		<PlayerStat value="0" stat="EnergyShield"/>
 		<PlayerStat value="0" stat="EnergyShieldRecoveryCap"/>
 		<PlayerStat value="0" stat="Spec:EnergyShieldInc"/>
@@ -65,39 +65,39 @@
 		<PlayerStat value="0" stat="EnergyShieldLeechGainRate"/>
 		<PlayerStat value="0" stat="Ward"/>
 		<PlayerStat value="0" stat="RageRegenRecovery"/>
-		<PlayerStat value="389" stat="Evasion"/>
-		<PlayerStat value="118" stat="Spec:EvasionInc"/>
+		<PlayerStat value="296" stat="Evasion"/>
+		<PlayerStat value="60" stat="Spec:EvasionInc"/>
 		<PlayerStat value="0" stat="MeleeEvadeChance"/>
 		<PlayerStat value="0" stat="ProjectileEvadeChance"/>
 		<PlayerStat value="0" stat="Armour"/>
 		<PlayerStat value="44" stat="Spec:ArmourInc"/>
 		<PlayerStat value="0" stat="PhysicalDamageReduction"/>
-		<PlayerStat value="45" stat="EffectiveBlockChance"/>
+		<PlayerStat value="22" stat="EffectiveBlockChance"/>
 		<PlayerStat value="0" stat="EffectiveSpellBlockChance"/>
 		<PlayerStat value="0" stat="AttackDodgeChance"/>
 		<PlayerStat value="0" stat="SpellDodgeChance"/>
-		<PlayerStat value="24" stat="EffectiveSpellSuppressionChance"/>
-		<PlayerStat value="61" stat="FireResist"/>
+		<PlayerStat value="0" stat="EffectiveSpellSuppressionChance"/>
+		<PlayerStat value="53" stat="FireResist"/>
 		<PlayerStat value="0" stat="FireResistOverCap"/>
 		<PlayerStat value="75" stat="ColdResist"/>
-		<PlayerStat value="10" stat="ColdResistOverCap"/>
-		<PlayerStat value="61" stat="LightningResist"/>
+		<PlayerStat value="2" stat="ColdResistOverCap"/>
+		<PlayerStat value="53" stat="LightningResist"/>
 		<PlayerStat value="0" stat="LightningResistOverCap"/>
 		<PlayerStat value="-60" stat="ChaosResist"/>
 		<PlayerStat value="0" stat="ChaosResistOverCap"/>
-		<PlayerStat value="1.69" stat="EffectiveMovementSpeedMod"/>
-		<PlayerStat value="84745.44186634" stat="FullDPS"/>
+		<PlayerStat value="1.5" stat="EffectiveMovementSpeedMod"/>
+		<PlayerStat value="17974.489964097" stat="FullDPS"/>
 		<PlayerStat value="0" stat="FullDotDPS"/>
-		<FullDPSSkill value="84745.44186634" source="" skillPart="" stat="Volcanic Fissure of Snaking"/>
+		<FullDPSSkill value="17974.489964097" source="" skillPart="" stat="Volcanic Fissure of Snaking"/>
 		<PlayerStat value="0" stat="PowerCharges"/>
 		<PlayerStat value="3" stat="PowerChargesMax"/>
-		<PlayerStat value="1" stat="FrenzyCharges"/>
+		<PlayerStat value="0" stat="FrenzyCharges"/>
 		<PlayerStat value="3" stat="FrenzyChargesMax"/>
 		<PlayerStat value="0" stat="EnduranceCharges"/>
 		<PlayerStat value="3" stat="EnduranceChargesMax"/>
 		<TimelessData searchList="" searchListFallback="" devotionVariant1="1" devotionVariant2="1"/>
 	</Build>
-	<Tree activeSpec="6">
+	<Tree activeSpec="3">
 		<Spec masteryEffects="" ascendClassId="0" classId="4" nodes="6580,58854,20010,5237,48807,40132,49806,36704,19711,23471,39725,50986,65600,46882,63649" secondaryAscendClassId="nil" treeVersion="3_27">
 			<URL>
 				https://www.pathofexile.com/passive-skill-tree/AAAABgQADRm05eZOKhR1vqecxMKOj2BM_1uvmy23IvihAQBAAA==
@@ -1056,7 +1056,7 @@ Skills used by this Graft have +19% to Critical Strike Multiplier
 		<Section collapsed="false" subsection="DotsandBuildDegens" id="DamageTaken"/>
 		<Section collapsed="true" subsection="EnemyDegens" id="DamageTaken"/>
 	</Calcs>
-	<TreeView zoomX="-428.45911111111" zoomY="-782.18853333333" showStatDifferences="true" searchStr="" zoomLevel="6"/>
+	<TreeView zoomX="-251.97402263374" zoomY="-350.6600308642" showStatDifferences="true" searchStr="" zoomLevel="3"/>
 	<Notes>
 		
 	</Notes>
