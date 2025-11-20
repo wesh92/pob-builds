@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Mode mode="BUILD">
+		<Arg string="C:/Users/musei/Documents/Path of Building/Builds/Levelling/Witch.xml"/>
+		<Arg string="Witch"/>
+	</Mode>
+	<Accounts lastAccountName="ninja790#5696" lastRealm="PC">
+		<Account accountName="ninja790#5696"/>
+	</Accounts>
+	<SharedItems>
+		<ItemSet title="Bow">
+			<Item slotName="Ring 2">
+				Rarity: UNIQUE
+Blackheart
+Iron Ring
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 2
+Implicits: 1
+{tags:attack,physical_damage}Adds 1 to 4 Physical Damage to Attacks
+{tags:physical_damage}{variant:1}5% increased Global Physical Damage
+{tags:attack,chaos_damage}{variant:1}Adds 1 to 3 Chaos Damage to Attacks
+{tags:attack,chaos_damage}{variant:2}{range:0.5}Adds (10-15) to (20-25) Chaos Damage to Attacks
+{tags:life}{variant:1}{range:0.5}+(20-30) to maximum Life
+{tags:life}{variant:1}{range:0.5}Regenerate (2-4) Life per second
+{tags:life}{variant:2}{range:0.5}Regenerate (10-15) Life per second
+10% chance to Cause Monsters to Flee
+			</Item>
+			<Item slotName="Belt">
+				Rarity: UNIQUE
+Darkness Enthroned
+Stygian Vise
+League: Abyss
+Variant: Pre 3.11.0
+Variant: Pre 3.21.0
+Variant: Current
+Selected Variant: 3
+Sockets: A A
+Implicits: 1
+Has 1 Abyssal Socket
+Has 1 Abyssal Socket
+{variant:1}50% increased Effect of Socketed Abyss Jewels
+{variant:2}75% increased Effect of Socketed Abyss Jewels
+{variant:3}{range:0.5}(50-100)% increased Effect of Socketed Abyss Jewels
+			</Item>
+			<Item slotName="Weapon 1">
+				Rarity: UNIQUE
+Silverbranch
+Crude Bow
+Variant: Pre 2.0.0
+Variant: Current
+Selected Variant: 2
+Quality: 20
+Sockets: G-G-G-G-G-G
+LevelReq: 2
+Implicits: 0
++1 to Level of Socketed Bow Gems
+{variant:1}{range:0.5}(50-80)% increased Physical Damage
+{variant:2}{range:0.5}(80-100)% increased Physical Damage
+10% increased Attack Speed
++30 to Accuracy Rating
+Gain 10 Mana per Enemy Killed
+			</Item>
+			<Item slotName="Helmet">
+				Rarity: UNIQUE
+Goldrim
+Leather Cap
+Evasion: 80
+EvasionBasePercentile: 1
+Quality: 20
+Sockets: G-G-G-G
+Implicits: 0
+{range:0.5}+(30-50) to Evasion Rating
+10% increased Rarity of Items found
+{range:0.5}+(30-40)% to all Elemental Resistances
+Reflects 4 Physical Damage to Melee Attackers
+			</Item>
+			<Item slotName="Weapon 2">
+				Rarity: UNIQUE
+Craghead
+Serrated Arrow Quiver
+Variant: Pre 3.17.0
+Variant: Current
+Selected Variant: 2
+LevelReq: 5
+Implicits: 1
+1 to 4 Added Physical Damage with Bow Attacks
+{range:0.5}(20-25)% reduced Enemy Stun Threshold
+25% reduced Projectile Speed
+{variant:1}{range:0.5}(60-80)% increased Stun Duration on Enemies
+{variant:2}{range:0.5}(140-200)% increased Stun Duration on Enemies
+Adds 6 to 10 Physical Damage to Attacks with Bows
+			</Item>
+			<Item slotName="Body Armour">
+				Rarity: UNIQUE
+Tabula Rasa
+Simple Robe
+Quality: 20
+Sockets: W-W-W-W-W-W
+Implicits: 0
+			</Item>
+			<Item slotName="Gloves">
+				Rarity: UNIQUE
+Lochtonial Caress
+Iron Gauntlets
+Armour: 11
+ArmourBasePercentile: 1
+Variant: Pre 2.6.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 3
+Quality: 20
+Sockets: R-R-R-R
+Implicits: 0
+{range:0.5}(10-15)% increased Attack Speed
+{variant:1}{range:0.5}+(10-20) to Armour
+{variant:2}{range:0.5}+(20-30) to maximum Life
+{range:0.5}(10-15)% increased Cast Speed
+{range:0.5}(10-15)% reduced maximum Mana
+{variant:2}10% chance to gain a Power, Frenzy or Endurance Charge on Kill
+{variant:3}(10-15)% chance to gain a Power, Frenzy or Endurance Charge on Kill
+Conduit
+			</Item>
+			<Item slotName="Boots">
+				Rarity: UNIQUE
+Seven-League Step
+Rawhide Boots
+Evasion: 22
+EvasionBasePercentile: 1
+League: Perandus
+Quality: 20
+Sockets: G-G-G-G
+Implicits: 0
+50% increased Movement Speed
+			</Item>
+			<Item slotName="Ring 1">
+				Rarity: UNIQUE
+Blackheart
+Iron Ring
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 2
+Implicits: 1
+{tags:attack,physical_damage}Adds 1 to 4 Physical Damage to Attacks
+{tags:physical_damage}{variant:1}5% increased Global Physical Damage
+{tags:attack,chaos_damage}{variant:1}Adds 1 to 3 Chaos Damage to Attacks
+{tags:attack,chaos_damage}{variant:2}{range:0.5}Adds (10-15) to (20-25) Chaos Damage to Attacks
+{tags:life}{variant:1}{range:0.5}+(20-30) to maximum Life
+{tags:life}{variant:1}{range:0.5}Regenerate (2-4) Life per second
+{tags:life}{variant:2}{range:0.5}Regenerate (10-15) Life per second
+10% chance to Cause Monsters to Flee
+			</Item>
+		</ItemSet>
+		<ItemSet title="OWN Set">
+			<Item slotName="Ring 2">
+				Rarity: UNIQUE
+Call of the Void
+Sapphire Ring
+Shaper Item
+Elder Item
+LevelReq: 16
+Implicits: 1
+{tags:jewellery_resistance}{range:0.5}+(20-30)% to Cold Resistance
+{tags:jewellery_resistance}{range:0.5}+(20-30)% to Cold Resistance
+All Damage with Hits can Chill
+All Damage Taken from Hits can Chill you
+Enemies Chilled by your Hits can be Shattered as though Frozen
+Enemies Chilled by your Hits lessen their Damage dealt by half of Chill Effect
+			</Item>
+			<Item slotName="Belt">
+				Rarity: UNIQUE
+The Magnate
+Studded Belt
+Variant: Pre 2.6.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 3
+LevelReq: 16
+Implicits: 1
+{range:0.5}(20-30)% increased Stun Duration on Enemies
+{tags:jewellery_attribute}{range:0.5}+(40-50) to Strength
+{tags:physical_damage}{variant:1,2}{range:0.5}(25-40)% increased Global Physical Damage
+{tags:jewellery_resistance}{variant:3}{range:0.5}+(20-25)% to all Elemental Resistances
+50% increased Flask Charges gained
+{tags:jewellery_resistance}{variant:2}{range:0.5}+(20-25)% to all Elemental Resistances while you have at least 200 Strength
+{variant:3}10% chance to deal Double Damage while you have at least 200 Strength
+{variant:3}5% chance to deal Triple Damage while you have at least 400 Strength
+			</Item>
+			<Item slotName="Helmet">
+				Rarity: UNIQUE
+Goldrim
+Leather Cap
+Evasion: 80
+EvasionBasePercentile: 1
+Quality: 20
+Sockets: G-G-G-G
+Implicits: 0
+{range:0.5}+(30-50) to Evasion Rating
+10% increased Rarity of Items found
+{range:0.5}+(30-40)% to all Elemental Resistances
+Reflects 4 Physical Damage to Melee Attackers
+			</Item>
+			<Item slotName="Body Armour">
+				Rarity: UNIQUE
+Tabula Rasa
+Simple Robe
+Quality: 20
+Sockets: W-W-W-W-W-W
+Implicits: 0
+			</Item>
+			<Item slotName="Amulet">
+				Rarity: UNIQUE
+Astramentis
+Onyx Amulet
+LevelReq: 20
+Implicits: 2
+{crafted}Allocates Acuity
+{tags:jewellery_attribute}{range:0.5}+(10-16) to all Attributes
+{tags:jewellery_attribute}{range:0.5}+(80-100) to all Attributes
+{tags:attack,physical_damage}-4 Physical Damage taken from Attacks
+			</Item>
+			<Item slotName="Boots">
+				Rarity: UNIQUE
+Seven-League Step
+Rawhide Boots
+Evasion: 22
+EvasionBasePercentile: 1
+League: Perandus
+Quality: 20
+Sockets: G-G-G-G
+Implicits: 0
+50% increased Movement Speed
+			</Item>
+			<Item slotName="Ring 1">
+				Rarity: UNIQUE
+Le Heup of All
+Iron Ring
+Variant: Pre 2.6.0
+Variant: Current
+Selected Variant: 2
+LevelReq: 24
+Implicits: 1
+{tags:attack,physical_damage}Adds 1 to 4 Physical Damage to Attacks
+{variant:1}{range:0.5}(10-20)% increased Damage
+{variant:2}{range:0.5}(10-30)% increased Damage
+{tags:jewellery_attribute}{variant:1}{range:0.5}+(10-20) to all Attributes
+{tags:jewellery_attribute}{variant:2}{range:0.5}+(10-30) to all Attributes
+{variant:1}{range:0.5}(10-20)% increased Rarity of Items found
+{variant:2}{range:0.5}(10-30)% increased Rarity of Items found
+{tags:jewellery_resistance}{variant:1}{range:0.5}+(10-20)% to all Elemental Resistances
+{tags:jewellery_resistance}{variant:2}{range:0.5}+(10-30)% to all Elemental Resistances
+			</Item>
+		</ItemSet>
+		<ItemSet title="Early Warp">
+			<Item slotName="Ring 2">
+				Rarity: UNIQUE
+Blackheart
+Iron Ring
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 2
+Implicits: 1
+{tags:attack,physical_damage}Adds 1 to 4 Physical Damage to Attacks
+{tags:physical_damage}{variant:1}5% increased Global Physical Damage
+{tags:attack,chaos_damage}{variant:1}Adds 1 to 3 Chaos Damage to Attacks
+{tags:attack,chaos_damage}{variant:2}{range:0.5}Adds (10-15) to (20-25) Chaos Damage to Attacks
+{tags:life}{variant:1}{range:0.5}+(20-30) to maximum Life
+{tags:life}{variant:1}{range:0.5}Regenerate (2-4) Life per second
+{tags:life}{variant:2}{range:0.5}Regenerate (10-15) Life per second
+10% chance to Cause Monsters to Flee
+			</Item>
+			<Item slotName="Belt">
+				Rarity: UNIQUE
+Darkness Enthroned
+Stygian Vise
+League: Abyss
+Variant: Pre 3.11.0
+Variant: Pre 3.21.0
+Variant: Current
+Selected Variant: 3
+Sockets: A A
+Implicits: 1
+Has 1 Abyssal Socket
+Has 1 Abyssal Socket
+{variant:1}50% increased Effect of Socketed Abyss Jewels
+{variant:2}75% increased Effect of Socketed Abyss Jewels
+{variant:3}{range:0.5}(50-100)% increased Effect of Socketed Abyss Jewels
+			</Item>
+			<Item slotName="Graft 2">
+				Rarity: RARE
+Forked Epiphany
+Storming Eshgraft
+Item Level: 4
+LevelReq: 3
+Implicits: 2
+Adds 1 to 19 Lightning Damage
+Uses level 3 Wreathed in Light
+Graftblood: 0/430
+Adds 2 to 7 Lightning Damage
+22% increased chance to find Mysterious Wombgifts
+Skills used by this Graft have 58% increased Critical Strike Chance
+Skills used by this Graft have +9% to Critical Strike Multiplier
+Skills used by this Graft have 10% increased Skill Effect Duration
+			</Item>
+			<Item slotName="Flask 1">
+				Rarity: MAGIC
+Constant Quicksilver Flask of the Hare
+Crafted: true
+Prefix: {range:0}FlaskChargesAddedIncreasePercent1
+Suffix: {range:0.93}FlaskBuffMovementSpeedWhileHealing
+Quality: 20
+LevelReq: 4
+Implicits: 2
+{crafted}{range:0.5}(60-70)% increased effect
+{crafted}Gains no Charges during Effect
+16% increased Charge Recovery
+8% increased Movement Speed during Effect
+			</Item>
+			<Item slotName="Belt Abyssal Socket 1">
+				Rarity: RARE
+Grim Needle
+Searching Eye Jewel
+Item Level: 47
+Implicits: 0
+Abyss
++12% to Cold Resistance
+6 to 12 Added Fire Damage with Wand Attacks
+1 to 20 Added Lightning Damage with Wand Attacks
+			</Item>
+			<Item slotName="Weapon 1">
+				Rarity: UNIQUE
+Lifesprig
+Driftwood Wand
+Quality: 20
+Sockets: B-B-B
+Implicits: 1
+{range:0.5}(8-12)% increased Spell Damage
++1 to Level of Socketed Spell Gems
+{range:0.5}(20-28)% increased Spell Damage
+{range:0.5}(5-8)% increased Cast Speed
+{range:0.5}+(15-20) to maximum Life
+{range:0.5}+(15-20) to maximum Mana
+{range:0.5}Regenerate (6-8) Life over 1 second for each Spell you Cast
+			</Item>
+			<Item slotName="Belt Abyssal Socket 2">
+				Rarity: RARE
+Grim Needle
+Searching Eye Jewel
+Item Level: 47
+Implicits: 0
+Abyss
++12% to Cold Resistance
+6 to 12 Added Fire Damage with Wand Attacks
+1 to 20 Added Lightning Damage with Wand Attacks
+			</Item>
+			<Item slotName="Graft 1">
+				Rarity: MAGIC
+Icy Squalling Tulgraft of Blasting
+Item Level: 4
+LevelReq: 3
+Implicits: 2
+13% increased Projectile Damage
+Uses level 3 Dance in the White
+Graftblood: 0/430
+Adds 4 to 7 Cold Damage
+Skills used by this Graft deal 11% increased Damage
+			</Item>
+			<Item slotName="Flask 2">
+				Rarity: MAGIC
+Constant Quicksilver Flask of the Hare
+Crafted: true
+Prefix: {range:0}FlaskChargesAddedIncreasePercent1
+Suffix: {range:0.93}FlaskBuffMovementSpeedWhileHealing
+Quality: 20
+LevelReq: 4
+Implicits: 2
+{crafted}{range:0.5}(60-70)% increased effect
+{crafted}Gains no Charges during Effect
+16% increased Charge Recovery
+8% increased Movement Speed during Effect
+			</Item>
+			<Item slotName="Amulet">
+				Rarity: UNIQUE
+Karui Ward
+Jade Amulet
+Variant: Pre 2.6.0
+Variant: Current
+Selected Variant: 2
+LevelReq: 5
+Implicits: 2
+{crafted}Allocates Hasty Demise
+{tags:jewellery_attribute}{range:0.5}+(20-30) to Dexterity
+{tags:jewellery_attribute}{range:0.5}+(20-30) to Strength
+{tags:attack}+100 to Accuracy Rating
+{variant:2}30% increased Projectile Damage
+{tags:speed}30% increased Projectile Speed
+{tags:speed}10% increased Movement Speed
+			</Item>
+			<Item slotName="Helmet">
+				Rarity: UNIQUE
+Goldrim
+Leather Cap
+Evasion: 80
+EvasionBasePercentile: 1
+Quality: 20
+Sockets: G-G-G-G
+Implicits: 0
+{range:0.5}+(30-50) to Evasion Rating
+10% increased Rarity of Items found
+{range:0.5}+(30-40)% to all Elemental Resistances
+Reflects 4 Physical Damage to Melee Attackers
+			</Item>
+			<Item slotName="Weapon 2">
+				Rarity: RARE
+New Item
+Twig Spirit Shield
+Energy Shield: 10
+EnergyShieldBasePercentile: 1
+Crafted: true
+Prefix: {range:0.873}SpellDamageOnWeapon1
+Prefix: None
+Prefix: None
+Suffix: None
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: B-B-B
+LevelReq: 1
+Implicits: 1
+{tags:caster_damage,damage,caster}{range:0.5}(10-15)% increased Spell Damage
+18% increased Spell Damage
+			</Item>
+			<Item slotName="Body Armour">
+				Rarity: UNIQUE
+Foulborn Skin of the Loyal
+Simple Robe
+Energy Shield: 24
+EnergyShieldBasePercentile: 1
+League: Breach
+Quality: 20
+Sockets: B-B-G-G-R-R
+Implicits: 0
+Sockets cannot be modified
++20% to quality of socketed gems
+100% increased Global Defences
+			</Item>
+			<Item slotName="Gloves">
+				Rarity: UNIQUE
+Ondar&apos;s Clasp
+Wrapped Mitts
+Evasion: 18
+EvasionBasePercentile: 1
+Energy Shield: 6
+EnergyShieldBasePercentile: 1
+Variant: Pre 1.1.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 3
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 5
+Implicits: 0
+{variant:1}20% increased Attack Speed when on Full Life
+{variant:2,3}30% increased Attack Speed when on Full Life
+{variant:1,2}Adds 1 to 13 Lightning Damage to Attacks
+{variant:3}{range:0.5}Adds (1-4) to (30-50) Lightning Damage to Attacks
+{variant:1,2}{range:0.5}+(50-80) to Accuracy Rating
+{variant:3}{range:0.5}+(100-200) to Accuracy Rating
+{variant:1}{range:0.5}(10-15)% increased Movement Speed when on Low Life
+{variant:2,3}20% increased Movement Speed when on Low Life
+			</Item>
+			<Item slotName="Boots">
+				Rarity: UNIQUE
+Seven-League Step
+Rawhide Boots
+Evasion: 22
+EvasionBasePercentile: 1
+League: Perandus
+Quality: 20
+Sockets: G-G-G-G
+Implicits: 0
+50% increased Movement Speed
+			</Item>
+			<Item slotName="Ring 1">
+				Rarity: UNIQUE
+Blackheart
+Iron Ring
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 2
+Implicits: 1
+{tags:attack,physical_damage}Adds 1 to 4 Physical Damage to Attacks
+{tags:physical_damage}{variant:1}5% increased Global Physical Damage
+{tags:attack,chaos_damage}{variant:1}Adds 1 to 3 Chaos Damage to Attacks
+{tags:attack,chaos_damage}{variant:2}{range:0.5}Adds (10-15) to (20-25) Chaos Damage to Attacks
+{tags:life}{variant:1}{range:0.5}+(20-30) to maximum Life
+{tags:life}{variant:1}{range:0.5}Regenerate (2-4) Life per second
+{tags:life}{variant:2}{range:0.5}Regenerate (10-15) Life per second
+10% chance to Cause Monsters to Flee
+			</Item>
+		</ItemSet>
+		<ItemSet title="Mid Warp">
+			<Item slotName="Ring 2">
+				Rarity: UNIQUE
+Blackheart
+Iron Ring
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 2
+Implicits: 1
+{tags:attack,physical_damage}Adds 1 to 4 Physical Damage to Attacks
+{tags:physical_damage}{variant:1}5% increased Global Physical Damage
+{tags:attack,chaos_damage}{variant:1}Adds 1 to 3 Chaos Damage to Attacks
+{tags:attack,chaos_damage}{variant:2}{range:0.5}Adds (10-15) to (20-25) Chaos Damage to Attacks
+{tags:life}{variant:1}{range:0.5}+(20-30) to maximum Life
+{tags:life}{variant:1}{range:0.5}Regenerate (2-4) Life per second
+{tags:life}{variant:2}{range:0.5}Regenerate (10-15) Life per second
+10% chance to Cause Monsters to Flee
+			</Item>
+			<Item slotName="Belt">
+				Rarity: UNIQUE
+Darkness Enthroned
+Stygian Vise
+League: Abyss
+Variant: Pre 3.11.0
+Variant: Pre 3.21.0
+Variant: Current
+Selected Variant: 3
+Sockets: A A
+Implicits: 1
+Has 1 Abyssal Socket
+Has 1 Abyssal Socket
+{variant:1}50% increased Effect of Socketed Abyss Jewels
+{variant:2}75% increased Effect of Socketed Abyss Jewels
+{variant:3}{range:0.5}(50-100)% increased Effect of Socketed Abyss Jewels
+			</Item>
+			<Item slotName="Graft 2">
+				Rarity: RARE
+Forked Epiphany
+Storming Eshgraft
+Item Level: 4
+LevelReq: 3
+Implicits: 2
+Adds 1 to 19 Lightning Damage
+Uses level 3 Wreathed in Light
+Graftblood: 0/430
+Adds 2 to 7 Lightning Damage
+22% increased chance to find Mysterious Wombgifts
+Skills used by this Graft have 58% increased Critical Strike Chance
+Skills used by this Graft have +9% to Critical Strike Multiplier
+Skills used by this Graft have 10% increased Skill Effect Duration
+			</Item>
+			<Item slotName="Flask 1">
+				Rarity: MAGIC
+Constant Quicksilver Flask of the Hare
+Crafted: true
+Prefix: {range:0}FlaskChargesAddedIncreasePercent1
+Suffix: {range:0.93}FlaskBuffMovementSpeedWhileHealing
+Quality: 20
+LevelReq: 4
+Implicits: 2
+{crafted}{range:0.5}(60-70)% increased effect
+{crafted}Gains no Charges during Effect
+16% increased Charge Recovery
+8% increased Movement Speed during Effect
+			</Item>
+			<Item slotName="Belt Abyssal Socket 1">
+				Rarity: RARE
+Grim Needle
+Searching Eye Jewel
+Item Level: 47
+Implicits: 0
+Abyss
++12% to Cold Resistance
+6 to 12 Added Fire Damage with Wand Attacks
+1 to 20 Added Lightning Damage with Wand Attacks
+			</Item>
+			<Item slotName="Weapon 1">
+				Rarity: UNIQUE
+The Poet&apos;s Pen
+Carved Wand
+Quality: 20
+Sockets: B-B-B
+LevelReq: 12
+Implicits: 1
+{range:0.5}(11-15)% increased Spell Damage
++1 to Level of Socketed Active Skill Gems per 25 Player Levels
+Adds 3 to 5 Physical Damage to Attacks with this Weapon per 3 Player Levels
+{range:0.5}(8-12)% increased Attack Speed
+Trigger a Socketed Spell when you Attack with this Weapon, with a 0.25 second Cooldown
+			</Item>
+			<Item slotName="Belt Abyssal Socket 2">
+				Rarity: RARE
+Grim Needle
+Searching Eye Jewel
+Item Level: 47
+Implicits: 0
+Abyss
++12% to Cold Resistance
+6 to 12 Added Fire Damage with Wand Attacks
+1 to 20 Added Lightning Damage with Wand Attacks
+			</Item>
+			<Item slotName="Graft 1">
+				Rarity: MAGIC
+Icy Squalling Tulgraft of Blasting
+Item Level: 4
+LevelReq: 3
+Implicits: 2
+13% increased Projectile Damage
+Uses level 3 Dance in the White
+Graftblood: 0/430
+Adds 4 to 7 Cold Damage
+Skills used by this Graft deal 11% increased Damage
+			</Item>
+			<Item slotName="Flask 2">
+				Rarity: MAGIC
+Constant Quicksilver Flask of the Hare
+Crafted: true
+Prefix: {range:0}FlaskChargesAddedIncreasePercent1
+Suffix: {range:0.93}FlaskBuffMovementSpeedWhileHealing
+Quality: 20
+LevelReq: 4
+Implicits: 2
+{crafted}{range:0.5}(60-70)% increased effect
+{crafted}Gains no Charges during Effect
+16% increased Charge Recovery
+8% increased Movement Speed during Effect
+			</Item>
+			<Item slotName="Amulet">
+				Rarity: UNIQUE
+Astramentis
+Onyx Amulet
+LevelReq: 20
+Implicits: 2
+{crafted}Allocates Hasty Demise
+{tags:jewellery_attribute}{range:0.5}+(10-16) to all Attributes
+{tags:jewellery_attribute}{range:0.5}+(80-100) to all Attributes
+{tags:attack,physical_damage}-4 Physical Damage taken from Attacks
+			</Item>
+			<Item slotName="Helmet">
+				Rarity: UNIQUE
+Goldrim
+Leather Cap
+Evasion: 80
+EvasionBasePercentile: 1
+Quality: 20
+Sockets: G-G-G-G
+Implicits: 0
+{range:0.5}+(30-50) to Evasion Rating
+10% increased Rarity of Items found
+{range:0.5}+(30-40)% to all Elemental Resistances
+Reflects 4 Physical Damage to Melee Attackers
+			</Item>
+			<Item slotName="Weapon 2">
+				Rarity: UNIQUE
+Lycosidae
+Rawhide Tower Shield
+Armour: 247
+ArmourBasePercentile: 1
+Variant: Pre 3.0.0
+Variant: Pre 3.25.0
+Variant: Current
+Selected Variant: 3
+Quality: 20
+Sockets: R-R-R
+LevelReq: 11
+Implicits: 1
+{variant:2,3}{range:0.5}+(10-20) to maximum Life
+{range:0.5}+(120-160) to Armour
+{range:0.5}+(30-40) to maximum Life
+Your hits can&apos;t be Evaded
+{range:0.5}+(3-5)% Chance to Block
+{variant:1,2}Adds 250 to 300 Cold Damage to Counterattacks
+{variant:3}Adds 250 to 300 Cold Damage to Retaliation Skills
+			</Item>
+			<Item slotName="Body Armour">
+				Rarity: UNIQUE
+Foulborn Skin of the Loyal
+Simple Robe
+Energy Shield: 24
+EnergyShieldBasePercentile: 1
+League: Breach
+Quality: 20
+Sockets: B-B-G-G-R-R
+Implicits: 0
+Sockets cannot be modified
++20% to quality of socketed gems
+100% increased Global Defences
+			</Item>
+			<Item slotName="Gloves">
+				Rarity: UNIQUE
+Doedre&apos;s Tenure
+Velvet Gloves
+Energy Shield: 16
+EnergyShieldBasePercentile: 1
+Variant: Pre 2.6.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 3
+Quality: 20
+Sockets: B-B-B-B
+LevelReq: 12
+Implicits: 0
+{variant:1}+10 to Intelligence
+{variant:2}+20 to Intelligence
+{variant:3}{range:0.5}+(20-50) to Intelligence
+{variant:1}{range:0.5}(40-50)% increased Spell Damage
+{variant:2}{range:0.5}(50-60)% increased Spell Damage
+{variant:3}100% increased Spell Damage
+{variant:1}20% reduced Cast Speed
+{variant:2}15% reduced Cast Speed
+{variant:3}{range:0.5}(15-25)% reduced Cast Speed
+{variant:1}+16 to maximum Energy Shield
+{variant:2}+32 to maximum Energy Shield
+			</Item>
+			<Item slotName="Boots">
+				Rarity: UNIQUE
+Seven-League Step
+Rawhide Boots
+Evasion: 22
+EvasionBasePercentile: 1
+League: Perandus
+Quality: 20
+Sockets: G-G-G-G
+Implicits: 0
+50% increased Movement Speed
+			</Item>
+			<Item slotName="Ring 1">
+				Rarity: UNIQUE
+Blackheart
+Iron Ring
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 2
+Implicits: 1
+{tags:attack,physical_damage}Adds 1 to 4 Physical Damage to Attacks
+{tags:physical_damage}{variant:1}5% increased Global Physical Damage
+{tags:attack,chaos_damage}{variant:1}Adds 1 to 3 Chaos Damage to Attacks
+{tags:attack,chaos_damage}{variant:2}{range:0.5}Adds (10-15) to (20-25) Chaos Damage to Attacks
+{tags:life}{variant:1}{range:0.5}+(20-30) to maximum Life
+{tags:life}{variant:1}{range:0.5}Regenerate (2-4) Life per second
+{tags:life}{variant:2}{range:0.5}Regenerate (10-15) Life per second
+10% chance to Cause Monsters to Flee
+			</Item>
+		</ItemSet>
+		<ItemSet title="Late Warp">
+			<Item slotName="Ring 2">
+				Rarity: UNIQUE
+Timeclasp
+Moonstone Ring
+Variant: Pre 2.6.0
+Variant: Pre 3.17.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 4
+LevelReq: 25
+Implicits: 1
+{tags:skill}Grants Level 21 Wrath Skill
+{tags:attack,speed}{range:0.5}(10-15)% increased Attack Speed
+{tags:caster,speed}{variant:1}{range:0.5}(5-8)% increased Cast Speed
+{tags:caster,speed}{variant:2,3}{range:0.5}(5-10)% increased Cast Speed
+{tags:caster,speed}{variant:4}{range:0.5}(10-15)% increased Cast Speed
+{tags:jewellery_defense}{variant:1}{range:0.5}+(10-25) to maximum Energy Shield
+{tags:jewellery_defense}{variant:2}{range:0.5}+(15-25) to maximum Energy Shield
+{tags:jewellery_defense}{variant:3}{range:0.5}+(40-45) to maximum Energy Shield
+{tags:mana}{variant:1}15% reduced Mana Regeneration Rate
+{tags:mana}{variant:2,3}15% increased Mana Regeneration Rate
+{tags:caster}{variant:1}Temporal Chains has 30% reduced Effect on You
+{tags:caster}{variant:2}Temporal Chains has 50% reduced Effect on You
+{variant:3}{range:0.5}(-10-10)% increased Skill Effect Duration
+{variant:4}{range:0}(-20-20)% increased Skill Effect Duration
+{tags:resource,life}{variant:4}{range:0.5}(6-12)% of Damage Taken Recouped as Life
+{tags:resource,mana}{variant:4}{range:0.5}(6-12)% of Damage Taken Recouped as Mana
+{variant:3,4}Unaffected by Temporal Chains
+Corrupted
+			</Item>
+			<Item slotName="Graft 1">
+				Rarity: MAGIC
+Icy Squalling Tulgraft of Blasting
+Item Level: 4
+LevelReq: 3
+Implicits: 2
+13% increased Projectile Damage
+Uses level 3 Dance in the White
+Graftblood: 0/430
+Adds 4 to 7 Cold Damage
+Skills used by this Graft deal 11% increased Damage
+			</Item>
+			<Item slotName="Belt Abyssal Socket 2">
+				Rarity: RARE
+Grim Needle
+Searching Eye Jewel
+Item Level: 47
+Implicits: 0
+Abyss
++12% to Cold Resistance
+6 to 12 Added Fire Damage with Wand Attacks
+1 to 20 Added Lightning Damage with Wand Attacks
+			</Item>
+			<Item slotName="Flask 4">
+				Rarity: MAGIC
+Jade Flask
+Crafted: true
+Prefix: None
+Suffix: None
+Quality: 20
+LevelReq: 27
+Implicits: 1
+{crafted}Used when Charges reach full
+			</Item>
+			<Item slotName="Flask 1">
+				Rarity: MAGIC
+Quicksilver Flask of the Hare
+Crafted: true
+Prefix: None
+Suffix: {range:0.845}FlaskBuffMovementSpeedWhileHealing
+Quality: 20
+LevelReq: 4
+Implicits: 1
+{crafted}Used when Charges reach full
+8% increased Movement Speed during Effect
+			</Item>
+			<Item slotName="Flask 3">
+				Rarity: MAGIC
+Bismuth Flask
+Crafted: true
+Prefix: None
+Suffix: None
+Quality: 20
+LevelReq: 8
+Implicits: 1
+{crafted}Used when Charges reach full
+			</Item>
+			<Item slotName="Belt">
+				Rarity: UNIQUE
+Prismweave
+Rustic Sash
+Variant: Pre 2.6.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 3
+LevelReq: 25
+Implicits: 1
+{tags:physical_damage}{range:0.5}(12-24)% increased Global Physical Damage
+{tags:jewellery_elemental,attack}{variant:1}{range:0.5}Adds (3-4) to (7-8) Fire Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:2}{range:0.5}Adds (7-8) to (15-16) Fire Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:3}{range:0.5}Adds (14-16) to (30-32) Fire Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:1}{range:0.5}Adds (2-3) to (5-7) Cold Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:2}{range:0.5}Adds (5-6) to (12-14) Cold Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:3}{range:0.5}Adds (10-12) to (24-28) Cold Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:1}{range:0.5}Adds 1 to (13-17) Lightning Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:2}{range:0.5}Adds 1 to (30-34) Lightning Damage to Attacks
+{tags:jewellery_elemental,attack}{variant:3}{range:0.5}Adds 1 to (60-68) Lightning Damage to Attacks
+{tags:jewellery_resistance}{variant:1,2}{range:0.5}+(6-8)% to all Elemental Resistances
+{tags:jewellery_resistance}{variant:3}{range:0.5}+(6-15)% to all Elemental Resistances
+{tags:jewellery_elemental,attack}30% increased Elemental Damage with Attack Skills during any Flask Effect
+{variant:1,2}10% increased Elemental Damage with Attack Skills
+			</Item>
+			<Item slotName="Belt Abyssal Socket 1">
+				Rarity: RARE
+Grim Needle
+Searching Eye Jewel
+Item Level: 47
+Implicits: 0
+Abyss
++12% to Cold Resistance
+6 to 12 Added Fire Damage with Wand Attacks
+1 to 20 Added Lightning Damage with Wand Attacks
+			</Item>
+			<Item slotName="Flask 2">
+				Rarity: MAGIC
+Silver Flask
+Crafted: true
+Prefix: None
+Suffix: None
+Quality: 20
+LevelReq: 27
+Implicits: 1
+{crafted}Used when Charges reach full
+			</Item>
+			<Item slotName="Body Armour">
+				Rarity: UNIQUE
+Foulborn Skin of the Loyal
+Simple Robe
+Energy Shield: 24
+EnergyShieldBasePercentile: 1
+League: Breach
+Quality: 20
+Sockets: B-B-G-G-R-R
+Implicits: 0
+Sockets cannot be modified
++20% to quality of socketed gems
+100% increased Global Defences
+			</Item>
+			<Item slotName="Weapon 1">
+				Rarity: UNIQUE
+The Poet&apos;s Pen
+Carved Wand
+Quality: 20
+Sockets: B-B-B
+LevelReq: 12
+Implicits: 1
+{range:0.5}(11-15)% increased Spell Damage
++1 to Level of Socketed Active Skill Gems per 25 Player Levels
+Adds 3 to 5 Physical Damage to Attacks with this Weapon per 3 Player Levels
+{range:0.5}(8-12)% increased Attack Speed
+Trigger a Socketed Spell when you Attack with this Weapon, with a 0.25 second Cooldown
+			</Item>
+			<Item slotName="Amulet">
+				Rarity: UNIQUE
+Astramentis
+Onyx Amulet
+LevelReq: 20
+Implicits: 2
+{crafted}Allocates Hasty Demise
+{tags:jewellery_attribute}{range:0.5}+(10-16) to all Attributes
+{tags:jewellery_attribute}{range:0.5}+(80-100) to all Attributes
+{tags:attack,physical_damage}-4 Physical Damage taken from Attacks
+			</Item>
+			<Item slotName="Helmet">
+				Rarity: UNIQUE
+Goldrim
+Leather Cap
+Evasion: 80
+EvasionBasePercentile: 1
+Quality: 20
+Sockets: G-G-G-G
+Implicits: 0
+{range:0.5}+(30-50) to Evasion Rating
+10% increased Rarity of Items found
+{range:0.5}+(30-40)% to all Elemental Resistances
+Reflects 4 Physical Damage to Melee Attackers
+			</Item>
+			<Item slotName="Weapon 2">
+				Rarity: UNIQUE
+Lycosidae
+Rawhide Tower Shield
+Armour: 247
+ArmourBasePercentile: 1
+Variant: Pre 3.0.0
+Variant: Pre 3.25.0
+Variant: Current
+Selected Variant: 3
+Quality: 20
+Sockets: R-R-R
+LevelReq: 11
+Implicits: 1
+{variant:2,3}{range:0.5}+(10-20) to maximum Life
+{range:0.5}+(120-160) to Armour
+{range:0.5}+(30-40) to maximum Life
+Your hits can&apos;t be Evaded
+{range:0.5}+(3-5)% Chance to Block
+{variant:1,2}Adds 250 to 300 Cold Damage to Counterattacks
+{variant:3}Adds 250 to 300 Cold Damage to Retaliation Skills
+			</Item>
+			<Item slotName="Graft 2">
+				Rarity: RARE
+Forked Epiphany
+Storming Eshgraft
+Item Level: 4
+LevelReq: 3
+Implicits: 2
+Adds 1 to 19 Lightning Damage
+Uses level 3 Wreathed in Light
+Graftblood: 0/430
+Adds 2 to 7 Lightning Damage
+22% increased chance to find Mysterious Wombgifts
+Skills used by this Graft have 58% increased Critical Strike Chance
+Skills used by this Graft have +9% to Critical Strike Multiplier
+Skills used by this Graft have 10% increased Skill Effect Duration
+			</Item>
+			<Item slotName="Gloves">
+				Rarity: UNIQUE
+Doedre&apos;s Tenure
+Velvet Gloves
+Energy Shield: 16
+EnergyShieldBasePercentile: 1
+Variant: Pre 2.6.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 3
+Quality: 20
+Sockets: B-B-B-B
+LevelReq: 12
+Implicits: 0
+{variant:1}+10 to Intelligence
+{variant:2}+20 to Intelligence
+{variant:3}{range:0.5}+(20-50) to Intelligence
+{variant:1}{range:0.5}(40-50)% increased Spell Damage
+{variant:2}{range:0.5}(50-60)% increased Spell Damage
+{variant:3}100% increased Spell Damage
+{variant:1}20% reduced Cast Speed
+{variant:2}15% reduced Cast Speed
+{variant:3}{range:0.5}(15-25)% reduced Cast Speed
+{variant:1}+16 to maximum Energy Shield
+{variant:2}+32 to maximum Energy Shield
+			</Item>
+			<Item slotName="Boots">
+				Rarity: UNIQUE
+Seven-League Step
+Rawhide Boots
+Evasion: 22
+EvasionBasePercentile: 1
+League: Perandus
+Quality: 20
+Sockets: G-G-G-G
+Implicits: 0
+50% increased Movement Speed
+			</Item>
+			<Item slotName="Ring 1">
+				Rarity: UNIQUE
+Timeclasp
+Moonstone Ring
+Variant: Pre 2.6.0
+Variant: Pre 3.17.0
+Variant: Pre 3.19.0
+Variant: Current
+Selected Variant: 4
+LevelReq: 25
+Implicits: 1
+{tags:jewellery_defense}{range:0.5}+(15-25) to maximum Energy Shield
+{tags:attack,speed}{range:0.5}(10-15)% increased Attack Speed
+{tags:caster,speed}{variant:1}{range:0.5}(5-8)% increased Cast Speed
+{tags:caster,speed}{variant:2,3}{range:0.5}(5-10)% increased Cast Speed
+{tags:caster,speed}{variant:4}{range:0.5}(10-15)% increased Cast Speed
+{tags:jewellery_defense}{variant:1}{range:0.5}+(10-25) to maximum Energy Shield
+{tags:jewellery_defense}{variant:2}{range:0.5}+(15-25) to maximum Energy Shield
+{tags:jewellery_defense}{variant:3}{range:0.5}+(40-45) to maximum Energy Shield
+{tags:mana}{variant:1}15% reduced Mana Regeneration Rate
+{tags:mana}{variant:2,3}15% increased Mana Regeneration Rate
+{tags:caster}{variant:1}Temporal Chains has 30% reduced Effect on You
+{tags:caster}{variant:2}Temporal Chains has 50% reduced Effect on You
+{variant:3}{range:0.5}(-10-10)% increased Skill Effect Duration
+{variant:4}{range:0}(-20-20)% increased Skill Effect Duration
+{tags:resource,life}{variant:4}{range:0.5}(6-12)% of Damage Taken Recouped as Life
+{tags:resource,mana}{variant:4}{range:0.5}(6-12)% of Damage Taken Recouped as Mana
+{variant:3,4}Unaffected by Temporal Chains
+			</Item>
+		</ItemSet>
+	</SharedItems>
+	<Misc dpiScaleOverridePercent="0" showFlavourText="true" showPublicBuilds="true" disableDevAutoSave="false" invertSliderScrollDirection="false" POESESSID="3006e2b7f0e175b9f26065bfddf79253" notSupportedModTooltips="true" colorHighlight="^xFF0000" defaultItemAffixQuality="0.5" decimalSeparator="." nodePowerTheme="RED/BLUE" showTitlebarName="true" showWarnings="true" slotOnlyTooltips="true" colorNegative="^xDD0022" betaTest="false" defaultGemQuality="0" defaultCharLevel="1" showThousandsSeparators="true" edgeSearchHighlight="true" thousandsSeparator="," buildSortMode="NAME" colorPositive="^x33FF77" connectionProtocol="nil"/>
+</PathOfBuilding>
